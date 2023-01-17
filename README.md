@@ -1,1 +1,1 @@
-# ApiManagerSwagger
+# ApiManagerSwagger zmiana
