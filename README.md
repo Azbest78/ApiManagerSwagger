@@ -1,2 +1,1 @@
 # ApiManagerSwagger
-# ApiManagerSwagger
